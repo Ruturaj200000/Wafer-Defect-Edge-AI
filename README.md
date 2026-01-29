@@ -1,9 +1,9 @@
 # Wafer-Defect-Edge-AI
 Semiconductor wafer defect classification using Edge AI
 
+Edge-AI semiconductor defect classification
+Optimized for real-time fab inspection
 
-
-# Wafer Defect Classification (Edge-AI)
 
 ## Problem
 Manual wafer inspection is slow and costly.
